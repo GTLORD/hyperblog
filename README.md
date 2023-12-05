@@ -8,6 +8,5 @@ Un blog increible para el curso de Git y Github de Platzi
 
 *Es una forma muy segura, útil y práctica de ir viendo como evolucionan nuestros proyectos y habilidades,  es un **RECORDATORIO** DE TODAS las veces que fallaste...pero también de todas**LAS VECES QUE TE PUSISTE EN PIE**  y seguiste adelante, de todos los **OBSTÁCULOS** que **SUPERSTE**  
 
-[![frase](superalo "frase")](https://i.postimg.cc/kXPPrfXL/frasereadme.jpg "frase")
 
-:editormd-logo:
+![frasereadme](https://github.com/GTLORD/hyperblog/assets/107153807/b1b7ba6b-0ac7-48f7-9aa5-27aea1a518a2)
