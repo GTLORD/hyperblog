@@ -10,5 +10,6 @@ Un blog increible para el curso de Git y Github de Platzi
 
 *Creado por el increible platzi team
 *Incluye ejemplos en Windows, Linux y Mac
+*Disponible para todas las edades
 
 ![frasereadme](https://github.com/GTLORD/hyperblog/assets/107153807/b1b7ba6b-0ac7-48f7-9aa5-27aea1a518a2)
